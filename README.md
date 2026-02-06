@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mridul Verma R</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🌱 I’m currently learning **HTML,CSS,JS**
+- 🌱 I’m currently learning **RAG**
 
-- 💬 Ask me about **C,PYTHON**
+- 💬 Ask me about **C,PYTHON,java,AI/ML**
 
 - 📫 How to reach me **mridultechno2003@gmail.com**
 
